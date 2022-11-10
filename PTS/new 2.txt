@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Pangasinan tourist destination</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+		
+</head>
+<body>
+
+	<div class="bgimage">
+		<div class="menu">
+			
+			<div class="leftmenu">
+				<h4> Student Portal</h4>
+			</div>
+
+			<div class="rightmenu">
+				<ul>
+					<a href="index.html"> HOME</a>
+					<a href="Tourist Spots.html">Account</a>
+					<a href="gallery.html"> Password</a>
+					<a href="about.html"> Grade</a>
+					<a href="contacts.html" id="fisrtlist"> Contact Us</a>
+				</ul>
+			</div>
+
+	<div class="wrapper" align="center">
+  		<div class="contact-form">
+    	<div class="input-fields">
+      <input type="text" class="input" placeholder="Teacher Name">
+      <input type="text" class="input" placeholder="Subject Code">
+      <input type="text" class="input" placeholder="Department">
+      <input type="text" class="input" placeholder="Message">
+   	</div>
+    <div class="msg">
+      <textarea placeholder="Message"></textarea>
+      <div class="btn">send</div>
+    </div>
+  </div>
+</div>
+</div>	
+	</body>
+</html>
